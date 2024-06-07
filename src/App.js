@@ -12,7 +12,6 @@ const App = () => {
           style={{ justifyContent: "center", alignItems: "center" }}
         >
           <LoaderIcon className="animate-spin" />
-          Please wait 5-10 sec your ceremony video in progress 😎🥳😍
         </AbsoluteFill>
       );
     }
